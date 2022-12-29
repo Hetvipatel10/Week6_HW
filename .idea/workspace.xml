@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="671c1627-3e37-4646-8a31-7df40a5e3ce7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/homework6/Pro_new.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework6/Pro10_Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework6/Pro10_Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework6/Pro11_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework6/Pro11_java.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework6/Pro12_Testdata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework6/Pro12_Testdata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework6/Pro14_Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework6/Pro14_Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework6/Pro15_variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework6/Pro15_variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework6/Pro16_Binary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework6/Pro16_Binary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework6/Pro17_decimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework6/Pro17_decimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework6/Pro18_mod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework6/Pro18_mod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework6/Pro19_Lowercase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework6/Pro19_Lowercase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework6/Pro1_Instance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework6/Pro1_Instance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework6/Pro20_Print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework6/Pro20_Print.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework6/Pro2_Static.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework6/Pro2_Static.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework6/Pro3_Instace_Static.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework6/Pro3_Instace_Static.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework6/Pro4_Both.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework6/Pro4_Both.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework6/Pro5_operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework6/Pro5_operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework6/Pro6_Radius.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework6/Pro6_Radius.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework6/Pro7_Temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework6/Pro7_Temp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework6/Pro9_UL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework6/Pro9_UL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework6/StringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework6/StringMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework6/pro13_Avg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework6/pro13_Avg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_mid6_hw/Pro1_name.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_mid6_hw/Pro1_name.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_mid6_hw/Pro2_space.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_mid6_hw/Pro2_space.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_mid6_hw/Pro3_replace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_mid6_hw/Pro3_replace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_mid6_hw/Pro4_length.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_mid6_hw/Pro4_length.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_mid6_hw/Pro5_concat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_mid6_hw/Pro5_concat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_mid6_hw/Pro6_replace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_mid6_hw/Pro6_replace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_mid6_hw/Pro7_upper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_mid6_hw/Pro7_upper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_mid6_hw/Pro8_lower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_mid6_hw/Pro8_lower.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2J5AF14gc4SitpCp5vISY432at7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Pro_new">
+    <configuration name="Pro1_Instance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework6.Pro1_Instance" />
+      <module name="java_hw_w-6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pro2_Static" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework6.Pro2_Static" />
+      <module name="java_hw_w-6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pro4_Both" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework6.Pro4_Both" />
+      <module name="java_hw_w-6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pro_new" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework6.Pro_new" />
+      <module name="java_hw_w-6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework6.StringMethods" />
+      <module name="java_hw_w-6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Pro_new" />
+        <item itemvalue="Application.Pro1_Instance" />
+        <item itemvalue="Application.StringMethods" />
+        <item itemvalue="Application.Pro4_Both" />
+        <item itemvalue="Application.Pro2_Static" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="671c1627-3e37-4646-8a31-7df40a5e3ce7" name="Changes" comment="" />
+      <created>1671357464115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671357464115</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework6/Pro20_Print.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java_mid6_hw/Pro2_space.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/homework6/StringMethods.java</url>
+          <line>3</line>
+          <properties class="homework6.StringMethods" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
